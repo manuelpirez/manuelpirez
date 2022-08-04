@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end and serverless technologies
 - 🌱 I’m currently learning AWS Developer Associate
 - 💞️ I’m looking to collaborate on Open source, FE projects or AI 
-- 📫 How to reach me manuelpirez.dev@gmail.com
+- 📫 How to reach me? manuelpirez.dev@gmail.com &  https://stackoverflow.com/users/4221435/manuel-pirez
 
 <!---
 manuelpirez/manuelpirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
