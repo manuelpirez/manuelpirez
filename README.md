@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @manuelpirez
-- 👀 I’m interested in front end and serverless technologies
-- 🌱 I’m currently learning AWS Developer Associate
-- 💞️ I’m looking to collaborate on Open source, FE projects or AI 
+- 👀 I’m interested in Front End, Serverless technologies, and AI
+- 🌱 I’m currently learning Svelte and studying for AWS Developer Associate Certification
+- 💞️ I’m looking to collaborate on React, Svelte, anything JS related.
 - 📫 How to reach me? manuelpirez.dev@gmail.com &  https://stackoverflow.com/users/4221435/manuel-pirez
-
-<!---
-manuelpirez/manuelpirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
