@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manuelpirez
 - 👀 I’m interested in Front End, Serverless technologies, and AI
-- 🌱 I’m currently learning Svelte and studying for AWS Developer Associate Certification
+- 🌱 I’m currently working with Svelte, React and AWS technologies
 - 💞️ I’m looking to collaborate on React, Svelte, anything JS related.
-- 📫 How to reach me? manuelpirez.dev@gmail.com &  https://stackoverflow.com/users/4221435/manuel-pirez
+- 📫 How to reach me?  https://stackoverflow.com/users/4221435/manuel-pirez
